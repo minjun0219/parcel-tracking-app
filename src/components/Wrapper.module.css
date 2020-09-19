@@ -1,0 +1,7 @@
+.wrap {
+  margin: 0 auto;
+  max-width: 650px;
+  min-height: 100vh;
+  background: #fff;
+  box-shadow: inset 1px 0px 0 #bbb, inset -1px 0px 0 #bbb;
+}

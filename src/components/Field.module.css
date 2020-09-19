@@ -1,0 +1,16 @@
+.container {
+  border-bottom: 1px solid #ddd;
+  padding: 16px;
+  display: flex;
+}
+
+.label {
+  width: 30%;
+  max-width: 100px;
+  align-items: center;
+  display: flex;
+}
+
+.child {
+  flex: 1;
+}

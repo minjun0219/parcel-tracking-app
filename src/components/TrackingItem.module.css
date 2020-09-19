@@ -1,0 +1,18 @@
+.item {
+  border-bottom: 1px solid #ddd;
+  padding: 16px;
+}
+
+.item p {
+  margin-bottom: 0.1em;
+  line-height: 1.5;
+}
+
+.item p:last-child {
+  margin-bottom: 0;
+}
+
+.time {
+  font-size: 13px;
+  color: rgba(0, 0, 0, 0.7);
+}
